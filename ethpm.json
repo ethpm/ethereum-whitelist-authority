@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "Piper Merriam <pipermerriam@gmail.com>"
+  ],
+  "dependencies": {
+    "ds-auth": "0.6.0"
+  },
+  "description": "An Authority contract which uses a whitelist for call authorization",
+  "keywords": [
+    "Authority",
+    "Authorization",
+    "DSAuth",
+    "Dappsys"
+  ],
+  "license": "MIT",
+  "links": {
+    "repository": "https://github.com/pipermerriam/ethereum-whitelist-authority"
+  },
+  "manifest_version": "1",
+  "package_name": "whitelist-authority",
+  "version": "1.0.0"
+}
